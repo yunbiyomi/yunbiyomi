@@ -1,7 +1,10 @@
 <div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=EAA8B4&height=200&section=header&text=Hi,%20I'm%20Yunbi💞&fontSize=90&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=4B4B4B&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
+<br>
+<br>
 
 ### 🛠️Tech Stack🛠️
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -12,7 +15,13 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<br>
+<br>
+<br>
+<br>
+<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunbiyomi&layout=compact)
 
 <!--
 **yunbiyomi/yunbiyomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
