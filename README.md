@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=EAA8B4&height=200&section=header&text=Hi👋%I'm%Yunbi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=EAA8B4&height=200&section=header&text=Hi,%20I'm%20Yunbi💞&fontSize=90&fontColor=ffffff)
 
 
 ### 🛠️Tech Stack🛠️
