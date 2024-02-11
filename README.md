@@ -1,4 +1,5 @@
 <div align=center>
+<br>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=EAA8B4&height=200&section=header&text=Hi,%20I'm%20Yunbi💞&fontSize=90&fontColor=ffffff)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=717171&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
