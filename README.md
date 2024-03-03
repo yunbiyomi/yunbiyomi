@@ -2,11 +2,8 @@
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=EAA8B4&height=200&section=header&text=Hi,%20I'm%20Yunbi💞&fontSize=90&fontColor=ffffff)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=717171&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
 
-<br>
-
-### 🛠️Tech Stack🛠️
+### ⚙️Tech Stack🔧
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black">
