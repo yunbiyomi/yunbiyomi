@@ -1,5 +1,4 @@
 <div align=center>
-<br>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=EAA8B4&height=200&section=header&text=Hi,%20I'm%20Yunbi💞&fontSize=90&fontColor=ffffff)
 
@@ -18,9 +17,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <br>
-<br>
-<br>
-<br>
+
 
 <!--
 **yunbiyomi/yunbiyomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
